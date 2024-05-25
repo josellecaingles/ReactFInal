@@ -1,0 +1,32 @@
+/* Form.css */
+.address-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+  }
+  
+  .address-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .address-form input {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .address-form button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .address-form button:hover {
+    background-color: #0056b3;
+  }
+  
